@@ -774,6 +774,19 @@ thepage}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Include your chapter files here:
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
 filename "introduction.lyx"
@@ -797,6 +810,19 @@ renewcommand{
 theHchapter}{A
 \backslash
 arabic{chapter}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Include your appendix chapter files here:
 \end_layout
 
 \end_inset
@@ -878,6 +904,16 @@ References
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add your bib file as a local database here:
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"

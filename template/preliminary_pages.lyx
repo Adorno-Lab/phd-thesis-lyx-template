@@ -461,7 +461,7 @@ headrulewidth}{0pt}
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "list_of_abbreviations.lyx"
+filename "../list_of_abbreviations.lyx"
 
 \end_inset
 
@@ -547,7 +547,7 @@ headrulewidth}{0pt}
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "list_of_symbols.lyx"
+filename "../list_of_symbols.lyx"
 
 \end_inset
 

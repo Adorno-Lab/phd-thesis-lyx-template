@@ -87,26 +87,6 @@ customHeadersFooters
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset CommandInset include
-LatexCommand input
-filename "macros.lyx"
-
-\end_inset
-
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-If you break a line here it will add an additional space in the final output
- file.
- This inclusion can be removed from this page because the file is already
- included in the main file, but it will mess with the visualisation here.
-\end_layout
-
-\end_inset
-
-
 \begin_inset Formula $P(A)$
 \end_inset
 
